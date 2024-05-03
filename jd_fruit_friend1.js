@@ -3,7 +3,7 @@
 活动入口：京东APP我的-更多工具-东东农场
 
 #东东农场好友删减奖励
-cron "10 2 * * *" script-path=jd_fruit_friend.js,tag=东东农场好友删减奖励
+cron "1 1 1 1 *" script-path=jd_fruit_friend1.js,tag=东东农场好友删减奖励
 
 
 
